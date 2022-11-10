@@ -8,8 +8,6 @@ Download This --> [Not_a_Virus.exe(Not A Virus)](https://abhiramnagam.github.io/
 
 - uses: Platane/snk@v2
   with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
     github_user_name: ${{ github.AbhiramNagam }}
 
     # list of files to generate.
@@ -17,7 +15,7 @@ Download This --> [Not_a_Virus.exe(Not A Virus)](https://abhiramnagam.github.io/
     #
     #  supported options:
     #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
+    #  - color_snake: pink
     #  - color_dots:  Coma separated list of dots color.
     #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
     #                 Exactly 5 colors are expected.
