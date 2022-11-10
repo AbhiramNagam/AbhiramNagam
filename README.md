@@ -6,4 +6,4 @@ Download This --> [Not_a_Virus.exe(Not A Virus)](https://abhiramnagam.github.io/
 ![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramNagam&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNagam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/AbhiramNagam/AbhiramNagam/blob/output/github-contribution-grid-snake.gif)
